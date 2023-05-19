@@ -27,6 +27,8 @@ public class G02 {
         System.out.println("Islem Ekleyelim");
 
         System.out.println("HEAD");
+
+        System.out.println("Master");
     }
 
 }

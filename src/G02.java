@@ -1,4 +1,7 @@
 public class G02 {
+    public static void main(String[] args) {
+
+
 
     /*
         Git- Github'da projelerimizin üzerinde calisirken temelde 3 adimda islem yapiyoruz
@@ -20,4 +23,8 @@ public class G02 {
 
                 git push
      */
+
+        System.out.println("Islem Ekleyelim");
+    }
+
 }
